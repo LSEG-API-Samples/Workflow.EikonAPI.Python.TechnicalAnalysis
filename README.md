@@ -4,7 +4,7 @@ In this workflow I create technical analysis triggers without needing to use cha
 
 **Pre-requisites:**  
 
-Thomson Reuters Eikon or Refinitiv Workspace.
+Refinitiv Eikon or Refinitiv Workspace.
 
 Re-uses source code from <a href="https://github.com/Refinitiv-API-Samples/Example.MessengerChatBot.Python" target="_blank">MessengerChatBot.Python</a>
 
